@@ -31,7 +31,7 @@ input[type="button"]{
 input#operator16{
        width:280px;
        height:40px;
-       background-color:turquoise;
+       background-color:blue;
 }
 input[type="button"]:hover{
        transition:0.5s;
